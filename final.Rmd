@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Load Data
 
+TEST
+
 ```{r include=FALSE}
 all_data_indv <- read_delim("C:/Users/moonl/Desktop/Bio201ThursPM/final_project_data/DB_v_0.08/DB_v_0.08/all_data_indv.txt", 
     "\t", escape_double = FALSE, trim_ws = TRUE)
